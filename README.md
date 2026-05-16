@@ -35,22 +35,36 @@
 
 
 
-FolderIconChanger
+# FolderIconChanger
 Lightweight & efficient folder icon changer with built-in icon designer, runs smoothly on low-spec devices
-Project Introduction
+
+## Project Introduction
 A simple and practical Windows folder icon modification tool with an original built-in lightweight icon designer, allowing you to create and edit custom folder icons directly.
-Its overall UI layout is redesigned with reference to excellent open-source projects. It fully optimizes underlying operating logic while retaining similar interaction design, greatly reducing RAM and CPU usage for snappier performance, making it perfectly compatible with low-spec computers.
-Resources & Inspiration Sources
-UI Layout InspirationThe overall interface layout and operation logic refer to this project:ChangeFolderIcon
-Built-in Icon ResourcesAll exquisite built-in folder icons are sourced from the open-source project Folder11Folder11-ico
-Original Built-in ToolI independently developed a lightweight icon designer integrated into this software to quickly create exclusive custom icons.
-Features
-Fully lightweight optimized with ultra-low resource consumption, runs fluently on old and low-end PCs
-Adopts intuitive and user-friendly layout, no learning curve required
-Built-in original icon designer, make custom icons without extra software
-Support one-click folder icon replacement and one-click restore default icons
-Faster response speed and better loading performance than similar layout-based tools
-Open Source License
-This project is licensed under the MIT License.Everyone is free to use, study, modify and develop commercially. Please keep the original author attribution when redistributing modified versions.
-Special Thanks
-Sincere gratitude to the Folder11 project for providing high-quality icon materials, and thanks to ChangeFolderIcon for the excellent interface layout inspiration, which helped complete the lightweight performance optimization of this project.
+
+Its overall UI layout is redesigned with reference to excellent open-source projects. **It fully optimizes underlying operating logic while retaining similar interaction design**, greatly reducing RAM and CPU usage for snappier performance, making it perfectly compatible with low-spec computers.
+
+## Resources & Inspiration Sources
+1. **UI Layout Inspiration**
+The overall interface layout and operation logic refer to this project:
+[ChangeFolderIcon](https://github.com/YILING0013/ChangeFolderIcon)
+
+2. **Built-in Icon Resources**
+All exquisite built-in folder icons are sourced from the open-source project **Folder11**
+[Folder11-ico](https://github.com/icon11-community/Folder11-ico)
+
+3. **Original Built-in Tool**
+I independently developed a lightweight icon designer integrated into this software to quickly create exclusive custom icons.
+
+## Features
+- Fully lightweight optimized with ultra-low resource consumption, runs fluently on old and low-end PCs
+- Adopts intuitive and user-friendly layout, no learning curve required
+- Built-in original icon designer, make custom icons without extra software
+- Support one-click folder icon replacement and one-click restore default icons
+- Faster response speed and better loading performance than similar layout-based tools
+
+## Open Source License
+This project is licensed under the **MIT License**.
+Everyone is free to use, study, modify and develop commercially. **Please keep the original author attribution when redistributing modified versions.**
+
+## Special Thanks
+Sincere gratitude to the **Folder11** project for providing high-quality icon materials, and thanks to [ChangeFolderIcon](https://github.com/YILING0013/ChangeFolderIcon) for the excellent interface layout inspiration, which helped complete the lightweight performance optimization of this project.
