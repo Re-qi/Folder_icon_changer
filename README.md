@@ -1,3 +1,6 @@
+<img width="1151" height="930" alt="image" src="https://github.com/user-attachments/assets/451f4c24-7932-489b-84e1-4755d5a6dbe9" />
+<img width="1626" height="914" alt="image" src="https://github.com/user-attachments/assets/fd75e67b-41ef-4ed0-920f-fb9a1496d2c4" />
+
 # FolderIconChanger
 轻量高效文件夹图标修改工具，内置图标设计器，低配设备流畅运行
 
