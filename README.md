@@ -31,8 +31,6 @@
 本项目采用 **MIT 开源协议**
 任何人可免费使用、学习、修改、商用二次开发，**二次修改发布请保留原作者相关署名**
 
-## 特别致谢
-十分感谢 **Folder11** 项目提供优质图标素材，同时感谢 [ChangeFolderIcon](https://github.com/YILING0013/ChangeFolderIcon) 带来优秀的软件布局设计灵感，助力本项目完成轻量化性能优化。
 
 
 
@@ -68,6 +66,3 @@ I independently developed a lightweight icon designer integrated into this softw
 ## Open Source License
 This project is licensed under the **MIT License**.
 Everyone is free to use, study, modify and develop commercially. **Please keep the original author attribution when redistributing modified versions.**
-
-## Special Thanks
-Sincere gratitude to the **Folder11** project for providing high-quality icon materials, and thanks to [ChangeFolderIcon](https://github.com/YILING0013/ChangeFolderIcon) for the excellent interface layout inspiration, which helped complete the lightweight performance optimization of this project.
